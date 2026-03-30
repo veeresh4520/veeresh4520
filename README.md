@@ -1,3 +1,49 @@
+
+
+# 👋 Hi, I'm Veeresh
+<h3 align="center">A passionate engineer from India</h3>
+
+🎓 1st Year B.Tech Student
+💻 Passionate about coding and problem solving
+🚀 Currently learning DSA, Java, and exploring AI
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Java Programming
+* Git & GitHub
+* DBMS (next target)
+* AI basics
+
+---
+
+## 💻 Tech Stack
+
+* Language: Java(intermediate)
+* Basics: C++, HTML, CSS, JavaScript
+* Tools: Git, VS Code
+
+---
+
+## 🔭 Projects
+
+* 🎮 Game Website: https://timewaste-pro.netlify.app/game6.html
+* LRU Cache(Search engine)
+* 📌 More projects coming soon...
+
+---
+
+## 🎯 Goals
+
+* Solve 500+ DSA problems
+* Master Trees, Graphs, and DP
+* Build real-world projects
+* Learn AI deeply
+
+---
+
 <h3 align="center">A passionate engineer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -8,5 +54,31 @@
 <a href="https://auth.geeksforgeeks.org/user/veereshyac9am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="veereshyac9am" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I love building projects and solving problems consistently 🚀
+
+
