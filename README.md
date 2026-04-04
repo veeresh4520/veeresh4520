@@ -4,8 +4,8 @@
 <h3 align="center">A passionate engineer from India</h3>
 
 🎓 1st Year B.Tech Student
-💻 Passionate about coding and problem solving
-🚀 Currently learning DSA, Java, and exploring AI
+💻 I’m someone who likes breaking down problems and solving them step by step through code.
+🚀 Currently learning DSA, Java,front-end and exploring AI
 
 ---
 
@@ -14,6 +14,7 @@
 * Data Structures & Algorithms
 * Java Programming
 * Git & GitHub
+* Front-End
 * DBMS (next target)
 * AI basics
 
@@ -37,7 +38,7 @@
 
 ## 🎯 Goals
 
-* Solve 500+ DSA problems
+* Solve 50+ DSA problems
 * Master Trees, Graphs, and DP
 * Build real-world projects
 * Learn AI deeply
