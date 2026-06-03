@@ -38,7 +38,7 @@
 
 ## 🎯 Goals
 
-* Solve 50+ DSA problems
+* Solve 500+ DSA problems
 * Master Trees, Graphs, and DP
 * Build real-world projects
 * Learn AI deeply
