@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Veeresh
 <h3 align="center">A passionate engineer from India</h3>
 
-🎓 1st Year B.Tech Student
+🎓 2nd Year B.Tech Student
 💻 I’m someone who likes breaking down problems and solving them step by step through code.
 🚀 Currently learning DSA, Java,front-end and exploring AI
 
@@ -15,15 +15,16 @@
 * Java Programming
 * Git & GitHub
 * Front-End
-* DBMS (next target)
+* DBMS 
 * AI basics
+* OS
 
 ---
 
 ## 💻 Tech Stack
 
 * Language: Java(intermediate)
-* Basics: C++, HTML, CSS, JavaScript
+* Basics: C++, HTML, CSS, JavaScript,sql
 * Tools: Git, VS Code
 
 ---
